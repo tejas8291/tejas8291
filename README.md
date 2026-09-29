@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Tejas Gupta 👋
 
-<!--
-**tejas8291/tejas8291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter and Android Developer | AI-First Developer
 
-Here are some ideas to get you started:
+I build production-ready mobile applications, backend APIs, and admin dashboards. I enjoy solving real-world problems, debugging complex issues, and continuously improving software quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 📱 Flutter and Android development
+- 🧩 Dart, Kotlin, Riverpod, REST APIs, Firebase, and push notifications
+- ⚙️ FastAPI, PostgreSQL, Render, and admin portals
+- 🚀 Experience delivering production Android and iOS applications
+- 🤖 Currently learning Python, LLM APIs, RAG, tool calling, agents, and MCP
+
+## Featured Projects
+
+### Jaro Connect
+Production Flutter application for jobs, courses, profiles, notifications, and user engagement across Android and iOS.
+
+### Smart Attendance Platform
+A full-stack attendance platform consisting of:
+
+- Flutter employee application
+- FastAPI backend with PostgreSQL support
+- Standalone admin portal
+- Geofencing, offline synchronization, leave management, payments, reports, and notifications
+
+### AI-First Development
+Exploring practical AI applications including document assistants, English learning tools, and AI-powered developer workflows.
+
+## Tech Stack
+
+Dart · Flutter · Kotlin · Python · FastAPI · PostgreSQL · Firebase · REST APIs · Riverpod · Git · Render
+
+## Current Focus
+
+- Building reliable Flutter and Android applications
+- Learning AI-first and agentic application development
+- Strengthening problem-solving, system design, testing, and API architecture
+- Preparing for Flutter, AI, GenAI, and Agentic AI developer opportunities
+
+## Let's Connect
+
+I'm open to collaborating on meaningful mobile, backend, and AI-first projects.
