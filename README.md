@@ -4,6 +4,8 @@
 
 I build production mobile applications, backend APIs, and admin dashboards. My focus is solving real product problems, shipping reliable releases, and growing into AI-first application development.
 
+🌐 **Portfolio:** [tejasgupta-portfolio.vercel.app](https://tejasgupta-portfolio.vercel.app/)
+
 ## What I Build
 
 - 📱 Cross-platform mobile applications with Flutter and native Android experience
