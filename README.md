@@ -1,6 +1,6 @@
 # Hi, I'm Tejas Gupta 👋
 
-### Flutter and Android Developer | Building AI-First Products
+### Flutter and Android Developer | AI-First Developer
 
 I build production mobile applications, backend APIs, and admin dashboards. My focus is solving real product problems, shipping reliable releases, and growing into AI-first application development.
 
